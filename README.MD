@@ -6,7 +6,7 @@
 
 # Kullanım Kulavuzu
 
-git clone https://github.com/IpKonum 
+git clone https://github.com/hasanhvarol/IpKonum 
 
 ls
 
