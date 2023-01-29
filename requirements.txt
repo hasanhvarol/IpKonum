@@ -1,0 +1,6 @@
+requests
+json
+colorama
+time
+sys
+os
